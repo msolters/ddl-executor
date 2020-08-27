@@ -1,4 +1,4 @@
-module github.com/mc0/ddl-executor
+module github.com/msolters/ddl-executor
 
 require (
 	github.com/StackExchange/wmi v0.0.0-20190523213315-cbe66965904d // indirect
